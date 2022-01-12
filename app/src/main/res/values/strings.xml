@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paging3ImageSearch</string>
+
+    <string name="retry">Retry</string>
+    <string name="load_fail">Results could not be loaded</string>
+    <string name="search">Search</string>
+</resources>
